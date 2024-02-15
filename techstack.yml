@@ -1,0 +1,485 @@
+repo_name: gangadharure/official-images
+report_id: 7c0e1b52d8d3c718cc565c68958649ed
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-15T15:19:55+00:00'
+requested_by: yosifkit
+provider: github
+branch: master
+detected_tools_count: 35
+tools:
+- name: C lang
+  description: One of the most widely used programming languages of all time
+  website_url: http://en.wikipedia.org/wiki/C_(programming_language)
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: C++
+  description: Has imperative, object-oriented and generic programming features, while
+    also providing the facilities for low level memory manipulation
+  website_url: http://www.cplusplus.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1049/cplusplus.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Elixir
+  description: Dynamic, functional language designed for building scalable and maintainable
+    applications
+  website_url: http://elixir-lang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1974/drop.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Erlang
+  description: A programming language used to build massively scalable soft real-time
+    systems with requirements on high availability
+  website_url: http://www.erlang.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1004/cbdf77412da183e43d41c0c0f9a7005a.jpeg
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Golang
+  description: An open source programming language that makes it easy to build simple,
+    reliable, and efficient software
+  website_url: http://golang.org/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1005/O6AczwfV_400x400.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Haskell
+  description: An advanced purely-functional programming language
+  website_url: http://www.haskell.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1069/oCgm29k9.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Haxe
+  description: The Cross-platform Toolkit
+  website_url: https://haxe.org/
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/2025/apHCixcJ_400x400.jpg
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: PHP
+  description: A popular general-purpose scripting language that is especially suited
+    to web development
+  website_url: http://www.php.net/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Perl
+  description: Highly capable, feature-rich programming language with over 26 years
+    of development
+  website_url: http://www.perl.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1048/perl.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: SQL
+  description: It is a domain-specific language used in programming
+  website_url: https://en.wikipedia.org/wiki/SQL
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/mysql-initdb/initdb.sql
+  detection_source: test/tests/mysql-initdb/initdb.sql
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2015-08-04 23:05:32.000000000 Z
+- name: Swift
+  description: An innovative new programming language for Cocoa and Cocoa Touch.
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Cassandra
+  description: A partitioned row store. Rows are organized into tables with a required
+    primary key.
+  website_url: http://cassandra.apache.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1032/cassandra_small.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/library/cassandra
+  detection_source: library/cassandra
+  last_updated_by: Docker Library Bot
+  last_updated_on: 2022-12-13 18:45:32.000000000 Z
+- name: RabbitMQ
+  description: Open source multiprotocol messaging broker
+  website_url: http://www.rabbitmq.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Message Queue
+  image_url: https://img.stackshare.io/service/1061/default_df93e9a30d27519161b39d8c1d5c223c1642d187.jpg
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/rabbitmq-tls/rabbitmq-env.conf
+  detection_source: test/tests/rabbitmq-tls/rabbitmq-env.conf
+  last_updated_by: Luke Bakken
+  last_updated_on: 2023-06-28 14:17:48.000000000 Z
+- name: Brakeman
+  description: A static analysis security vulnerability scanner for Ruby on Rails
+    applications
+  website_url: http://brakemanscanner.org/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/6577/7b894961369b7c73e2a32f11f845e049_400x400.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/ruby-binstubs/Gemfile
+  detection_source: test/tests/ruby-binstubs/Gemfile
+  last_updated_by: David Rodríguez
+  last_updated_on: 2019-12-19 11:33:02.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/.github/workflows/munge-pr.yml
+  detection_source: ".github/workflows/munge-pr.yml"
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2023-02-17 22:59:36.000000000 Z
+- name: HAProxy
+  description: The Reliable, High Performance TCP/HTTP Load Balancer
+  website_url: http://www.haproxy.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Load Balancer / Reverse Proxy
+  image_url: https://img.stackshare.io/service/1179/preview.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/haproxy-basics/haproxy.cfg
+  detection_source: test/tests/haproxy-basics/haproxy.cfg
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2016-03-16 00:28:56.000000000 Z
+- name: Julia
+  description: A high-level, high-performance dynamic programming language for technical
+    computing
+  website_url: http://pkg.julialang.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package_manager/3914/default_a30825f60d1159a8bca0d7d45c4988f63eeb2b0f.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: RSpec
+  description: Behaviour Driven Development for Ruby
+  website_url: https://rspec.info/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2539/logo.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/ruby-bundler/Gemfile
+  detection_source: test/tests/ruby-bundler/Gemfile
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2015-01-22 00:32:52.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/ruby-bundler/Gemfile
+  detection_source: test/tests/ruby-bundler/Gemfile
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2015-01-22 00:32:52.000000000 Z
+- name: Varnish
+  description: High-performance HTTP accelerator
+  website_url: https://www.varnish-cache.org/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Web Cache
+  image_url: https://img.stackshare.io/service/1073/default_7811fe80d774e75973d4f3880e5903125f0bec3b.jpg
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/library/varnish
+  detection_source: library/varnish
+  last_updated_by: Guillaume Quintard
+  last_updated_on: 2023-09-20 14:38:11.000000000 Z
+- name: Elasticsearch
+  description: Open Source, Distributed, RESTful Search Engine
+  website_url: https://www.elastic.co/products/elasticsearch
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Search as a Service
+  image_url: https://img.stackshare.io/service/841/Image_2019-05-20_at_4.58.04_PM.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/library/elasticsearch
+  detection_source: library/elasticsearch
+  last_updated_by: Docker Library Bot
+  last_updated_on: 2021-06-04 23:51:42.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: prolog
+  description: é uma linguagem de programação que se enquadra no paradigma de Programação
+    em Lógica Matemática.
+  website_url: http://www.swi-prolog.org/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10124/no-img-open-source.png
+  detection_source_url: https://github.com/gangadharure/official-images
+  detection_source: Repo Metadata
+- name: bundler-audit
+  description: Bundler-audit provides patch-level verification for Bundled apps
+  package_url: https://rubygems.org/bundler-audit
+  license: GPL-3.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19086/default_54dcdbda5f19ac7cce7dfde7a31f57a35d2cdc2f.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/ruby-binstubs/Gemfile
+  detection_source: test/tests/ruby-binstubs/Gemfile
+  last_updated_by: David Rodríguez
+  last_updated_on: 2019-12-19 11:33:02.000000000 Z
+- name: nokogiri
+  description: Nokogiri
+  package_url: https://rubygems.org/nokogiri
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18823/default_b8fbb83e23c963442e15398c5b56262cc6267d6f.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/ruby-bundler/Gemfile
+  detection_source: test/tests/ruby-bundler/Gemfile
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2015-01-22 00:32:52.000000000 Z
+- name: rack
+  description: Rack provides a minimal, modular and adaptable interface for developing
+    web applications in Ruby
+  package_url: https://rubygems.org/rack
+  version: '1.1'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/18839/default_db5cfb0d85d9fd8bfb40a863581417a2a57791ab.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/ruby-bundler/Gemfile
+  detection_source: test/tests/ruby-bundler/Gemfile
+  last_updated_by: Tianon Gravi
+  last_updated_on: 2015-01-22 00:32:52.000000000 Z
+  vulnerabilities:
+  - name: Possible shell escape sequence injection vulnerability in Rack
+    cve_id: CVE-2022-30123
+    cve_url: https://github.com/advisories/GHSA-wq4h-7r42-5hrr
+    detected_date: May 28
+    severity: critical
+    first_patched: 2.0.9.1
+  - name: Rack has possible DoS Vulnerability in Multipart MIME parsing
+    cve_id: CVE-2023-27530
+    cve_url: https://github.com/advisories/GHSA-3h57-hmj3-gj3p
+    detected_date: Mar 9
+    severity: high
+    first_patched: 2.0.9.3
+  - name: Rack allows Percent-encoded cookies to overwrite existing prefixed cookie
+      names
+    cve_id: CVE-2020-8184
+    cve_url: https://github.com/advisories/GHSA-j6w9-fv6q-3q52
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.1.4
+  - name: Directory traversal in Rack::Directory app bundled with Rack
+    cve_id: CVE-2020-8161
+    cve_url: https://github.com/advisories/GHSA-5f9h-9pjv-v6j7
+    detected_date: Aug 22
+    severity: high
+    first_patched: 2.1.3
+  - name: Moderate severity vulnerability that affects rack
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-9vc2-p34x-jhxh
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.4.6
+  - name: Possible Information Leak / Session Hijack Vulnerability in Rack
+    cve_id: CVE-2019-16782
+    cve_url: https://github.com/advisories/GHSA-hrqr-hxpp-chr3
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.6.12
+  - name: Rack vulnerable to Denial of Service
+    cve_id: CVE-2013-0184
+    cve_url: https://github.com/advisories/GHSA-v882-ccj6-jc48
+    detected_date: Mar 9
+    severity: moderate
+    first_patched: 1.1.5
+  - name: Rack vulnerable to Cross-site Scripting
+    cve_id: CVE-2018-16471
+    cve_url: https://github.com/advisories/GHSA-5r2p-j47h-mhpg
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.6.11
+  - name: Rack arbitrary code execution via timing attack
+    cve_id: CVE-2013-0263
+    cve_url: https://github.com/advisories/GHSA-xc85-32mf-xpv8
+    detected_date: Jun 18
+    severity: moderate
+    first_patched: 1.1.6
+  - name: Rack Gem Subject to Denial of Service via Hash Collisions
+    cve_id: CVE-2011-5036
+    cve_url: https://github.com/advisories/GHSA-v6j3-7jrw-hq2p
+    detected_date: Mar 28
+    severity: moderate
+    first_patched: 1.1.3
+  - name: Rack vulnerable to REDoS
+    cve_id: CVE-2012-6109
+    cve_url: https://github.com/advisories/GHSA-h77x-m5q8-c29h
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 1.1.4
+- name: composer/composer
+  description: Composer helps you declare, manage and install dependencies of PHP
+    projects
+  package_url: https://packagist.org/composer/composer
+  version: '1.0'
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/packagist/image.png
+  detection_source_url: https://github.com/gangadharure/official-images/blob/master/test/tests/composer/composer.json
+  detection_source: test/tests/composer/composer.json
+  last_updated_by: Rob Bast
+  last_updated_on: 2016-10-27 06:34:58.000000000 Z
