@@ -76,7 +76,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [gangadharure/official-images](https://github.com/gangadharure/official-images)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|35<br/>Tools used|02/15/24 <br/>Report generated|
+|35<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -363,7 +363,7 @@ Full tech stack [here](/techstack.md)
 |:------|:------|:------|:------|:------|:------|
 |[bundler-audit](https://rubygems.org/bundler-audit)|N/A|12/19/19|David Rodríguez |GPL-3.0|N/A|
 |[nokogiri](https://rubygems.org/nokogiri)|N/A|01/22/15|Tianon Gravi |MIT|N/A|
-|[rack](https://rubygems.org/rack)|v1.1|01/22/15|Tianon Gravi |MIT|[CVE-2022-30123](https://github.com/advisories/GHSA-wq4h-7r42-5hrr) (Critical)<br/>[CVE-2023-27530](https://github.com/advisories/GHSA-3h57-hmj3-gj3p) (High)<br/>[CVE-2020-8184](https://github.com/advisories/GHSA-j6w9-fv6q-3q52) (High)<br/>[CVE-2020-8161](https://github.com/advisories/GHSA-5f9h-9pjv-v6j7) (High)<br/>[](https://github.com/advisories/GHSA-9vc2-p34x-jhxh) (Moderate)<br/>[CVE-2019-16782](https://github.com/advisories/GHSA-hrqr-hxpp-chr3) (Moderate)<br/>[CVE-2013-0184](https://github.com/advisories/GHSA-v882-ccj6-jc48) (Moderate)<br/>[CVE-2018-16471](https://github.com/advisories/GHSA-5r2p-j47h-mhpg) (Moderate)<br/>[CVE-2013-0263](https://github.com/advisories/GHSA-xc85-32mf-xpv8) (Moderate)<br/>[CVE-2011-5036](https://github.com/advisories/GHSA-v6j3-7jrw-hq2p) (Moderate)<br/>[CVE-2012-6109](https://github.com/advisories/GHSA-h77x-m5q8-c29h) (Moderate)|
+|[rack](https://rubygems.org/rack)|v1.1|01/22/15|Tianon Gravi |MIT|[CVE-2022-30123](https://github.com/advisories/GHSA-wq4h-7r42-5hrr) (Critical)<br/>[CVE-2023-27530](https://github.com/advisories/GHSA-3h57-hmj3-gj3p) (High)<br/>[CVE-2020-8184](https://github.com/advisories/GHSA-j6w9-fv6q-3q52) (High)<br/>[CVE-2020-8161](https://github.com/advisories/GHSA-5f9h-9pjv-v6j7) (High)<br/>[CVE-2013-0263](https://github.com/advisories/GHSA-xc85-32mf-xpv8) (Moderate)<br/>[CVE-2019-16782](https://github.com/advisories/GHSA-hrqr-hxpp-chr3) (Moderate)<br/>[CVE-2013-0184](https://github.com/advisories/GHSA-v882-ccj6-jc48) (Moderate)<br/>[CVE-2018-16471](https://github.com/advisories/GHSA-5r2p-j47h-mhpg) (Moderate)<br/>[](https://github.com/advisories/GHSA-9vc2-p34x-jhxh) (Moderate)<br/>[CVE-2011-5036](https://github.com/advisories/GHSA-v6j3-7jrw-hq2p) (Moderate)<br/>[CVE-2012-6109](https://github.com/advisories/GHSA-h77x-m5q8-c29h) (Moderate)<br/>[CVE-2024-25126](https://github.com/advisories/GHSA-22f2-v57c-j9cx) (Low)<br/>[CVE-2024-26146](https://github.com/advisories/GHSA-54rr-7fvw-6x8f) (Low)|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/1778/default_90cb8b66e85ae5b95928b10bb076ab6a27c7e151.png'/> Packagist (1)
